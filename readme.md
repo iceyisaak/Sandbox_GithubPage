@@ -4,6 +4,8 @@ By: [iceyisaak](https://www.iceyisaak.com/)
 
 Date: 21 MAY 2020
 
+Readme Last Updated: 31 MAY 2020
+
 Testing deploying Github Page
 
 ---
@@ -20,3 +22,5 @@ Requirements:
 6. Access the Github Page via `https://<USERNAME>.github.io/<PROJECT-NAME>/`
 
 ---
+
+###### ++ THANK YOU ++
