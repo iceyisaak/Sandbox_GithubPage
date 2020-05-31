@@ -1,6 +1,8 @@
 # Sandbox_GithubPage
 
-Testing deploying Github Page again
+Date: 21 MAY 2020
+
+Testing deploying Github Page
 
 ---
 
@@ -13,3 +15,4 @@ Requirements:
 4. For readme.md, h1 must be the same as the repo name to avoid h1 size hyperlink above the page
    - If no h1 present, the h1 size hyperlink will added by default
 5. Push from local may be required to trigger hosted page
+6. Access the Github Page via https://<USERNAME>>.github.io/<PROJECT-NAME>/
