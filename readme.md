@@ -1,5 +1,7 @@
 # Sandbox_GithubPage
 
+By: [iceyisaak](https://www.iceyisaak.com/)
+
 Date: 21 MAY 2020
 
 Testing deploying Github Page
@@ -16,3 +18,5 @@ Requirements:
    - If no h1 present, the h1 size hyperlink will added by default
 5. Push from local may be required to trigger hosted page
 6. Access the Github Page via `https://<USERNAME>.github.io/<PROJECT-NAME>/`
+
+---
