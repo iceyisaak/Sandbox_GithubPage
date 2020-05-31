@@ -15,4 +15,4 @@ Requirements:
 4. For readme.md, h1 must be the same as the repo name to avoid h1 size hyperlink above the page
    - If no h1 present, the h1 size hyperlink will added by default
 5. Push from local may be required to trigger hosted page
-6. Access the Github Page via https://<USERNAME>>.github.io/<PROJECT-NAME>/
+6. Access the Github Page via `https://<USERNAME>.github.io/<PROJECT-NAME>/`
